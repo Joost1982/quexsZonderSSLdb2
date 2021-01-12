@@ -254,7 +254,7 @@ if (!defined('ALLOW_RESPONDENT_SELECTOR')) define ('ALLOW_RESPONDENT_SELECTOR',f
 /**
  * Display a faster alternate interface where VoIP is disabled
  */
-if (!defined('ALTERNATE_INTERFACE')) define ('ALTERNATE_INTERFACE',true);
+if (!defined('ALTERNATE_INTERFACE')) define ('ALTERNATE_INTERFACE',false);
 
 /**
  * Number of log records to display
